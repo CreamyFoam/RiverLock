@@ -1,5 +1,5 @@
-# WaterGate
-<<<<<<< HEAD
+# RiverLock
+
 Repository for the Water Gate(Lock) Project
 
 ##1. Preparation of the data
@@ -15,4 +15,4 @@ Repository for the Water Gate(Lock) Project
 - Use LoadAndVisualization.py
 =======
 Repository for the Water Gate(Lock)
->>>>>>> 982d4e5bd9e783457969ea426fd79375e59d2169
+
