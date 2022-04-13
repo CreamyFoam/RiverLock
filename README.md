@@ -13,6 +13,5 @@ Repository for the Water Gate(Lock) Project
 
 ##3. Visualization
 - Use LoadAndVisualization.py
-=======
-Repository for the Water Gate(Lock)
+
 
